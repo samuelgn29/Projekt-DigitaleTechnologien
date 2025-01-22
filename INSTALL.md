@@ -6,8 +6,7 @@
 - MQTT-Broker (z. B. HiveMQ oder Mosquitto)
 - API-Key für OpenWeatherMap
 
-Container über cmd erstellen und starten.
-
+## Container über cmd erstellen und starten.
     1. Dateien dashboard.py, docker-compose Dockerfile, main.py, requirements.txt und .env runterladen
     2. Runtergeladenen Dateien im selben Ordner speichern
     3. CMD öffnen und zu dem Ordner navigieren in dem sich die Dateien befinden. Bsp.: "cd C:\Users\samue\Desktop\Uni\DigitaleTechnologien"
