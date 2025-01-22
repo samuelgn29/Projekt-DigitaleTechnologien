@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  weather-app:
+    container_name: weather_app_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8088:8501"    # Streamlit Dashboard
+    volumes:
+      - ./data:/app/data
+    env_file:
+      - .env  # ✅ Korrekte Einbindung der .env-Datei
+    restart: always
