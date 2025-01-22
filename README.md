@@ -15,6 +15,5 @@ Die Daten werden über einen MQTT-Broker verteilt und in einem interaktiven Stre
 - MQTT-Broker (HiveMQ oder eigener Broker)
 - Streamlit
 
-### 1. Setup
-```bash
-Die Anleitung zur Installation finden Sie im INSTALL.md
+### Setup
+- Die Anleitung zur Installation finden Sie im INSTALL.md
