@@ -7,7 +7,7 @@
 - API-Key für OpenWeatherMap
 
 ## Image über Terminal erstellen und Container starten.
-    1. Dateien dashboard.py, docker-compose Dockerfile, main.py, requirements.txt und .env runterladen
+    1. Dateien dashboard.py, docker-compose Dockerfile, main.py, requirements.txt und .env aus dem Ordner DockerDateien runterladen
     2. Beim Download kann es sein, dass die .env-Datei zu "env" umbenannt wird. Falls das passiert, muss diese manuell wieder zu ".env" umbenannt werden
     3. Runtergeladenen Dateien im selben Ordner speichern
     4. Terminal öffnen und zu dem Ordner navigieren in dem sich die Dateien befinden. Bsp.: "cd C:\Users\samue\Desktop\Uni\DigitaleTechnologien"
